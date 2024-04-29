@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Sage_LaTeX_Guidelines.aux
+The style file: SageV.bst
+Database file #1: bibliography.bib
+Warning--can't use both author and editor fields in tajfel1979integrative
+Warning--can't use both volume and number fields in Conover2011
+Warning--can't use both volume and number fields in levenshtein1966binary
+Warning--can't use both volume and number fields in meakacher2023
+Warning--can't use both volume and number fields in kumar2011understanding
+You've used 66 entries,
+            2484 wiz_defined-function locations,
+            934 strings with 18603 characters,
+and the built_in function-call counts, 64145 in all, are:
+= -- 7224
+> -- 708
+< -- 38
++ -- 354
+- -- 177
+* -- 3813
+:= -- 5796
+add.period$ -- 229
+call.type$ -- 66
+change.case$ -- 114
+chr.to.int$ -- 0
+cite$ -- 71
+duplicate$ -- 7815
+empty$ -- 5643
+format.name$ -- 228
+if$ -- 14204
+int.to.chr$ -- 0
+int.to.str$ -- 66
+missing$ -- 615
+newline$ -- 342
+num.names$ -- 66
+pop$ -- 3818
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 890
+stack$ -- 0
+substring$ -- 9087
+swap$ -- 1569
+text.length$ -- 38
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 399
+width$ -- 68
+write$ -- 701
+(There were 5 warnings)

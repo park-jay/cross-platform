@@ -1,0 +1,342 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI:\discretionary{}{}{}\begingroup \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Bruns2015}
+Bruns A and Highfield T.
+\newblock Is habermas on twitter?: Social media and the public sphere.
+\newblock In \emph{The Routledge companion to social media and politics}. Routledge, 2015.
+\newblock pp. 56--73.
+
+\bibitem{Benkler2006}
+Benkler Y.
+\newblock \emph{The Wealth of Networks: How Social Production Transforms Markets and Freedom}.
+\newblock New Haven, CT: Yale University Press, 2006.
+\newblock ISBN 0300110561.
+
+\bibitem{habermas1991structural}
+Habermas J.
+\newblock \emph{The structural transformation of the public sphere: An inquiry into a category of bourgeois society}.
+\newblock MIT press, 1991.
+
+\bibitem{ocal2021reasoning}
+{\"O}cal A, Xiao L and Park J.
+\newblock Reasoning in social media: insights from reddit “change my view” submissions.
+\newblock \emph{Online Information Review} 2021; 45(7): 1208--1226.
+
+\bibitem{gibbs2013overcoming}
+Gibbs JL, Rozaidi NA and Eisenberg J.
+\newblock Overcoming the “ideology of openness”: Probing the affordances of social media for organizational knowledge sharing.
+\newblock \emph{Journal of Computer-Mediated Communication} 2013; 19(1): 102--120.
+
+\bibitem{tajfel1979integrative}
+Tajfel H and Turner J.
+\newblock \emph{The social psychology of intergroup relations}, chapter An integrative theory of intergroup conflict.
+\newblock Brooks Cole, 1979.
+\newblock pp. 33--47.
+
+\bibitem{sunstein2018republic}
+Sunstein C.
+\newblock \emph{\# Republic: Divided democracy in the age of social media}.
+\newblock Princeton university press, 2018.
+
+\bibitem{grevet2014managing}
+Grevet C, Terveen LG and Gilbert E.
+\newblock Managing political differences in social media.
+\newblock In \emph{Proceedings of the 17th ACM conference on Computer supported cooperative work \& social computing}. pp. 1400--1408.
+
+\bibitem{Cramer2016}
+Cramer KJ.
+\newblock \emph{The politics of resentment: Rural consciousness in Wisconsin and the rise of Scott Walker}.
+\newblock University of Chicago Press, 2016.
+
+\bibitem{Conover2011}
+Conover M, Ratkiewicz J, Francisco M et~al.
+\newblock Political polarization on twitter.
+\newblock In \emph{Proceedings of the international AAAI Conference on Web and Social Media}, volume~5. pp. 89--96.
+
+\bibitem{lima2020}
+Lima C.
+\newblock Twitter plans clampdown on mail-in voting misinformation amid friction with trump.
+\newblock https://www.politico.com/news/2020/08/12/twitter-fights-mail-in-voting-misinformation-394459, 2020.
+
+\bibitem{twitter2021}
+Twitter.
+\newblock Civic integrity policy.
+\newblock https://help.twitter.com/en/rules-and-policies/election-integrity-policy, 2021.
+
+\bibitem{kiene2016surviving}
+Kiene C, Monroy-Hern{\'a}ndez A and Hill BM.
+\newblock Surviving an" eternal september" how an online community managed a surge of newcomers.
+\newblock In \emph{Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}. pp. 1152--1156.
+
+\bibitem{pewresearch}
+Stocking G, Mitchell A, Eva~Matsa K et~al.
+\newblock The role of alternative social media in the news and information environment.
+\newblock https://www.pewresearch.org/journalism/2022/10/06/the-role-of-alternative-social-media-in-the-news-and-information-environment/, 2022.
+
+\bibitem{bucher2018affordances}
+Bucher T, Helmond A et~al.
+\newblock The affordances of social media platforms.
+\newblock \emph{The SAGE handbook of social media} 2018; 1: 233--253.
+
+\bibitem{m2021political}
+M~Otala J, Kurtic G, Grasso I et~al.
+\newblock Political polarization and platform migration: A study of parler and twitter usage by united states of america congress members.
+\newblock In \emph{Companion Proceedings of the Web Conference 2021}. pp. 224--231.
+
+\bibitem{gillani2018me}
+Gillani N, Yuan A, Saveski M et~al.
+\newblock Me, my echo chamber, and i: introspection on social media polarization.
+\newblock In \emph{Proceedings of the 2018 World Wide Web Conference}. pp. 823--831.
+
+\bibitem{zannettou2018gab}
+Zannettou S, Bradlyn B, De~Cristofaro E et~al.
+\newblock What is gab: A bastion of free speech or an alt-right echo chamber.
+\newblock In \emph{Companion Proceedings of the The Web Conference 2018}. pp. 1007--1014.
+
+\bibitem{dori2021restoring}
+Dori-Hacohen S, Sung K, Chou J et~al.
+\newblock Restoring healthy online discourse by detecting and reducing controversy, misinformation, and toxicity online.
+\newblock In \emph{Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval}. pp. 2627--2628.
+
+\bibitem{fichman2023trolling}
+Fichman P and Rathi M.
+\newblock Trolling cnn and fox news on facebook, instagram, and twitter.
+\newblock \emph{Journal of the Association for Information Science and Technology} 2023; 74(5): 493--505.
+
+\bibitem{kim2022violent}
+Kim T.
+\newblock Violent political rhetoric on twitter.
+\newblock \emph{Political science research and methods} 2022; : 1--23.
+
+\bibitem{fair2019shouting}
+Fair G and Wesslen R.
+\newblock Shouting into the void: A database of the alternative social media platform gab.
+\newblock In \emph{Proceedings of the International AAAI Conference on Web and Social Media}, volume~13. pp. 608--610.
+
+\bibitem{mathew2019spread}
+Mathew B, Dutt R, Goyal P et~al.
+\newblock Spread of hate speech in online social media.
+\newblock In \emph{Proceedings of the 10th ACM conference on web science}. pp. 173--182.
+
+\bibitem{iyengar2012affect}
+Iyengar S, Sood G and Lelkes Y.
+\newblock Affect, not ideology: A social identity perspective on polarization.
+\newblock \emph{Public opinion quarterly} 2012; 76(3): 405--431.
+
+\bibitem{mutz2018status}
+Mutz DC.
+\newblock Status threat, not economic hardship, explains the 2016 presidential vote.
+\newblock \emph{Proceedings of the National Academy of Sciences} 2018; 115(19): E4330--E4339.
+
+\bibitem{prior2005news}
+Prior M.
+\newblock News vs. entertainment: How increasing media choice widens gaps in political knowledge and turnout.
+\newblock \emph{American Journal of Political Science} 2005; 49(3): 577--592.
+
+\bibitem{iyengar2019origins}
+Iyengar S, Lelkes Y, Levendusky M et~al.
+\newblock The origins and consequences of affective polarization in the united states.
+\newblock \emph{Annual review of political science} 2019; 22: 129--146.
+
+\bibitem{kalmoe2019lethal}
+Kalmoe NP and Mason L.
+\newblock Lethal mass partisanship: Prevalence, correlates, and electoral contingencies.
+\newblock In \emph{National Capital Area Political Science Association American Politics Meeting}. pp. 1--41.
+
+\bibitem{kubin2021role}
+Kubin E and von Sikorski C.
+\newblock The role of (social) media in political polarization: a systematic review.
+\newblock \emph{Annals of the International Communication Association} 2021; 45(3): 188--206.
+
+\bibitem{barbera2015understanding}
+Barber{\'a} P and Rivero G.
+\newblock Understanding the political representativeness of twitter users.
+\newblock \emph{Social Science Computer Review} 2015; 33(6): 712--729.
+
+\bibitem{sumner1906folkways}
+Sumner WG.
+\newblock \emph{Folkways: A study of the sociological importance of usages, manners, customs, mores, and morals}.
+\newblock Ginn and Co., 1906.
+
+\bibitem{tong1999language}
+Tong Yy, Hong Yy, Lee Sl et~al.
+\newblock Language use as a carrier of social identity.
+\newblock \emph{International Journal of Intercultural Relations} 1999; 23(2): 281--296.
+
+\bibitem{an2019political}
+An J, Kwak H, Posegga O et~al.
+\newblock Political discussions in homogeneous and cross-cutting communication spaces.
+\newblock In \emph{Proceedings of the International AAAI Conference on Web and Social Media}, volume~13. pp. 68--79.
+
+\bibitem{kooti2012predicting}
+Kooti F, Mason WA, Gummadi KP et~al.
+\newblock Predicting emerging social conventions in online social networks.
+\newblock In \emph{Proceedings of the 21st ACM international conference on Information and knowledge management}. pp. 445--454.
+
+\bibitem{opp2001norms}
+Opp KD.
+\newblock How do norms emerge? an outline of a theory.
+\newblock \emph{Mind \& Society} 2001; 2: 101--128.
+
+\bibitem{danescu2013no}
+Danescu-Niculescu-Mizil C, West R, Jurafsky D et~al.
+\newblock No country for old members: User lifecycle and linguistic change in online communities.
+\newblock In \emph{Proceedings of the 22nd international conference on World Wide Web}. pp. 307--318.
+
+\bibitem{memon2020characterizing}
+Memon SA, Tyagi A, Mortensen DR et~al.
+\newblock Characterizing sociolinguistic variation in the competing vaccination communities.
+\newblock In \emph{International conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior representation in modeling and simulation}. Springer, pp. 118--129.
+
+\bibitem{maass1989language}
+Maass A, Salvi D, Arcuri L et~al.
+\newblock Language use in intergroup contexts: The linguistic intergroup bias.
+\newblock \emph{Journal of personality and social psychology} 1989; 57(6): 981.
+
+\bibitem{mccluney2019code}
+McCluney CL, Robotham K, Lee S et~al.
+\newblock The costs of code-switching.
+\newblock https://hbr.org/2019/11/the-costs-of-codeswitching, 2019.
+
+\bibitem{hudson_1996}
+Hudson RA.
+\newblock \emph{Sociolinguistics}.
+\newblock Cambridge University Press, 1996.
+
+\bibitem{aliapoulios2021large}
+Aliapoulios M, Bevensee E, Blackburn J et~al.
+\newblock A large open dataset from the parler social network.
+\newblock In \emph{Proceedings of the International AAAI Conference on Web and Social Media}, volume~15. pp. 943--951.
+
+\bibitem{levenshtein1966binary}
+Levenshtein VI et~al.
+\newblock Binary codes capable of correcting deletions, insertions, and reversals.
+\newblock In \emph{Soviet physics doklady}, volume~10. Soviet Union, pp. 707--710.
+
+\bibitem{krackhardt1988informal}
+Krackhardt D and Stern RN.
+\newblock Informal networks and organizational crises: An experimental simulation.
+\newblock \emph{Social psychology quarterly} 1988; : 123--140.
+
+\bibitem{berry2021estimating}
+Berry G, Sirianni A, Weber I et~al.
+\newblock Estimating homophily in social networks using dyadic predictions.
+\newblock \emph{Sociological Science} 2021; 8: 285--307.
+
+\bibitem{park2022raison}
+Park J and Jeoung S.
+\newblock Raison d’{\^e}tre of the benchmark dataset: A survey of current practices of benchmark dataset sharing platforms.
+\newblock In \emph{Proceedings of NLP Power! The First Workshop on Efficient Benchmarking in NLP}. pp. 1--10.
+
+\bibitem{park2023ripple}
+Park J and Cordell R.
+\newblock The ripple effect of dataset reuse: Contextualising the data lifecycle for machine learning data sets and social impact.
+\newblock \emph{Journal of Information Science} 2023; : 01655515231212977.
+
+\bibitem{Weber_2009}
+Weber A.
+\newblock \emph{Manual on hate speech}.
+\newblock Council of Europe, 2009.
+
+\bibitem{wulczyn2017ex}
+Wulczyn E, Thain N and Dixon L.
+\newblock Ex machina: Personal attacks seen at scale.
+\newblock In \emph{Proceedings of the 26th international conference on world wide web}. pp. 1391--1399.
+
+\bibitem{fortuna2020toxic}
+Fortuna P, Soler J and Wanner L.
+\newblock Toxic, hateful, offensive or abusive? what are we really classifying? an empirical analysis of hate speech datasets.
+\newblock In \emph{Proceedings of the 12th language resources and evaluation conference}. pp. 6786--6794.
+
+\bibitem{gallacher2021online}
+Gallacher JD, Heerdink MW and Hewstone M.
+\newblock Online engagement between opposing political protest groups via social media is linked to physical violence of offline encounters.
+\newblock \emph{Social Media+ Society} 2021; 7(1): 2056305120984445.
+
+\bibitem{chipidza2021effect}
+Chipidza W.
+\newblock The effect of toxicity on covid-19 news network formation in political subcommunities on reddit: An affiliation network approach.
+\newblock \emph{International Journal of Information Management} 2021; 61: 102397.
+
+\bibitem{hua2020characterizing}
+Hua Y, Naaman M and Ristenpart T.
+\newblock Characterizing twitter users who engage in adversarial interactions against political candidates.
+\newblock In \emph{Proceedings of the 2020 CHI conference on human factors in computing systems}. pp. 1--13.
+
+\bibitem{gehmanrealtoxicityprompts}
+Gehman S, Gururangan S, Sap M et~al.
+\newblock Realtoxicityprompts: Evaluating neural toxic degeneration in language models.
+\newblock In \emph{Proceedings of 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)}. pp. 3356--3369.
+
+\bibitem{monroe2008fightin}
+Monroe BL, Colaresi MP and Quinn KM.
+\newblock Fightin'words: Lexical feature selection and evaluation for identifying the content of political conflict.
+\newblock \emph{Political Analysis} 2008; 16(4): 372--403.
+
+\bibitem{kwak2020systematic}
+Kwak H, An J and Ahn YY.
+\newblock A systematic media frame analysis of 1.5 million new york times articles from 2000 to 2017.
+\newblock In \emph{Proceedings of the 12th ACM Conference on Web Science}. pp. 305--314.
+
+\bibitem{park2023quantitative}
+Park J and Cordell R.
+\newblock A quantitative discourse analysis of asian workers in the us historical newspapers.
+\newblock In \emph{The Joint 3rd International Conference on Natural Language Processing for Digital Humanities and 8th International Workshop on Computational Linguistics for Uralic Languages}. pp. 7--15.
+
+\bibitem{ehrlich2015politics}
+Ehrlich GA and Gramzow RH.
+\newblock The politics of affirmation theory: When group-affirmation leads to greater ingroup bias.
+\newblock \emph{Personality and Social Psychology Bulletin} 2015; 41(8): 1110--1122.
+
+\bibitem{clementson2018truth}
+Clementson DE.
+\newblock Truth bias and partisan bias in political deception detection.
+\newblock \emph{Journal of Language and Social Psychology} 2018; 37(4): 407--430.
+
+\bibitem{cinelli2021dynamics}
+Cinelli M, Pelicon A, Mozeti{\v{c}} I et~al.
+\newblock Dynamics of online hate and misinformation.
+\newblock \emph{Scientific reports} 2021; 11(1): 22083.
+
+\bibitem{meakacher2023}
+Mekacher A, Falkenberg M and Baronchelli A.
+\newblock The systematic impact of deplatforming on social media.
+\newblock In \emph{PNAS Nexus}, volume~2. pp. 1--10.
+
+\bibitem{kumar2011understanding}
+Kumar S, Zafarani R and Liu H.
+\newblock Understanding user migration patterns in social media.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, volume~25. pp. 1204--1209.
+
+\bibitem{dubois2020journalists}
+Dubois E, Gruzd A and Jacobson J.
+\newblock Journalists’ use of social media to infer public opinion: The citizens’ perspective.
+\newblock \emph{Social science computer review} 2020; 38(1): 57--74.
+
+\bibitem{blackwell2017classification}
+Blackwell L, Dimond J, Schoenebeck S et~al.
+\newblock Classification and its consequences for online harassment: Design insights from heartmob.
+\newblock \emph{Proceedings of the ACM on Human-Computer Interaction} 2017; 1(CSCW): 1--19.
+
+\bibitem{fiesler2020no}
+Fiesler C, Beard N and Keegan BC.
+\newblock No robots, spiders, or scrapers: Legal and ethical regulation of data collection methods in social media terms of service.
+\newblock In \emph{Proceedings of the international AAAI conference on web and social media}, volume~14. pp. 187--196.
+
+\bibitem{chandrasekharan2017you}
+Chandrasekharan E, Pavalanathan U, Srinivasan A et~al.
+\newblock You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech.
+\newblock \emph{Proceedings of the ACM on human-computer interaction} 2017; 1(CSCW): 1--22.
+
+\bibitem{almuhimedi2013tweets}
+Almuhimedi H, Wilson S, Liu B et~al.
+\newblock Tweets are forever: a large-scale quantitative analysis of deleted tweets.
+\newblock In \emph{Proceedings of the 2013 conference on Computer supported cooperative work}. pp. 897--908.
+
+\end{thebibliography}
