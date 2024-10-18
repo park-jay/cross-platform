@@ -1,4 +1,4 @@
-# cross-platform
+# Examining the network, toxicity and discourse of cross-platform users on Twitter and Parler during the 2020 US Presidential Election
 This repository contains materials for the [paper](https://journals.sagepub.com/doi/abs/10.1177/01655515241238405)
 
 ## Citation
@@ -12,3 +12,6 @@ This repository contains materials for the [paper](https://journals.sagepub.com/
   publisher={SAGE Publications Sage UK: London, England}
 }
 ```
+
+## Abstract
+This study examines code-switching behaviors of cross-platform social media users specifically between Twitter and Parler during the 2020 U.S. Presidential Election. Utilizing social identity theory as a framework, we examine messages related to voter fraud by users who migrated from Twitter to Parler following Twitter bans. Our analysis covers 38,798 account active on both platforms, analyzing 1.5 million tweets and more than 100 thousand parleys. The key findings of the study are as follows: First we discovered differing levels of network homophily between high degree centrality and low degree centrality cross-platform users, illustrating how individuals with varying degrees of influence engage differently across platforms. Second, we observed higher toxicity levels in heterogenous networks, which include both in-group and out-group members, compared to homogeneous networks that are primarily composed of in-group members. This suggests the level of toxicity in online spaces correlates with the level of group diversity. Third, we found that cross-platform users created distinctive 
