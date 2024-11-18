@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  29 MAR 2024 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  18 NOV 2024 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mstudio/repository/research/cross-platform2/sage_latex_template_4/Sage_LaTeX_Guidelines.tex
-(/Users/mstudio/repository/research/cross-platform2/sage_latex_template_4/Sage_LaTeX_Guidelines.tex
+**/Users/mstudio/repository/research/cross-platform/sage_latex_template_4/Sage_LaTeX_Guidelines.tex
+(/Users/mstudio/repository/research/cross-platform/sage_latex_template_4/Sage_LaTeX_Guidelines.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./sagej.cls
 Document Class: sagej 2017/01/17 v1.20\ sagej.cls
@@ -487,76 +487,72 @@ Package hyperref Info: Link coloring ON on input line 20.
 \@outlinefile=\write4
 \openout4 = `Sage_LaTeX_Guidelines.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 31.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 32.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 31.
+(Font)              scaled to size 9.49997pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 31.
+(Font)              scaled to size 11.39996pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 31.
+(Font)              scaled to size 11.39996pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 31.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 45.
+(Font)              scaled to size 9.49997pt on input line 32.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 46.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 17.09995pt on input line 50.
+(Font)              scaled to size 17.09995pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 17.09995pt on input line 50.
+(Font)              scaled to size 17.09995pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 50.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 50.
+(Font)              scaled to size 6.64998pt on input line 51.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 51.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 50.
+(Font)              scaled to size 6.64998pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 50.
+(Font)              scaled to size 7.59998pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 50.
+(Font)              scaled to size 5.69998pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 50.
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 50.
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 50.
+(Font)              scaled to size 7.59998pt on input line 51.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 51.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 51.
+(Font)              scaled to size 6.64998pt on input line 52.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 87.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 87.
+(Font)              scaled to size 9.49997pt on input line 88.
  [2]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 87.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 87.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 99.
+(Font)              scaled to size 11.39996pt on input line 88.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 100.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 112.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 113.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [3] [4] [5]
@@ -566,27 +562,27 @@ Overfull \vbox (2.57146pt too high) has occurred while \output is active []
 <figure/within-platform-v4.pdf, id=240, 963.6pt x 542.025pt>
 File: figure/within-platform-v4.pdf Graphic file (type pdf)
 <use figure/within-platform-v4.pdf>
-Package pdftex.def Info: figure/within-platform-v4.pdf  used on input line 227.
+Package pdftex.def Info: figure/within-platform-v4.pdf  used on input line 228.
 (pdftex.def)             Requested size: 289.08223pt x 162.60875pt.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 234.
+(Font)              scaled to size 8.54997pt on input line 235.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 234.
+(Font)              scaled to size 8.54997pt on input line 235.
  [7]
 <figure/RQ3rr_shape.pdf, id=270, 4495.19391pt x 4379.5622pt>
 File: figure/RQ3rr_shape.pdf Graphic file (type pdf)
 <use figure/RQ3rr_shape.pdf>
-Package pdftex.def Info: figure/RQ3rr_shape.pdf  used on input line 305.
+Package pdftex.def Info: figure/RQ3rr_shape.pdf  used on input line 306.
 (pdftex.def)             Requested size: 341.43306pt x 332.59625pt.
  [8 <./figure/within-platform-v4.pdf>] [9 <./figure/RQ3rr_shape.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 316.
+               Default added (so using `tbp') on input line 317.
 
 <figure/toxicity_boxplot.pdf, id=321, 289.08pt x 361.35pt>
 File: figure/toxicity_boxplot.pdf Graphic file (type pdf)
 <use figure/toxicity_boxplot.pdf>
-Package pdftex.def Info: figure/toxicity_boxplot.pdf  used on input line 354.
+Package pdftex.def Info: figure/toxicity_boxplot.pdf  used on input line 355.
 (pdftex.def)             Requested size: 213.39566pt x 266.74419pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -595,7 +591,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figure/RQ4rr-parler-twitter-comparison-new.pdf, id=340, 599.01697pt x 424.15045pt>
 File: figure/RQ4rr-parler-twitter-comparison-new.pdf Graphic file (type pdf)
 <use figure/RQ4rr-parler-twitter-comparison-new.pdf>
-Package pdftex.def Info: figure/RQ4rr-parler-twitter-comparison-new.pdf  used on input line 382.
+Package pdftex.def Info: figure/RQ4rr-parler-twitter-comparison-new.pdf  used on input line 383.
 (pdftex.def)             Requested size: 299.50775pt x 212.0747pt.
  [12 <./figure/RQ4rr-parler-twitter-comparison-new.pdf>]
 
@@ -615,15 +611,15 @@ Package rerunfilecheck Info: File `Sage_LaTeX_Guidelines.out' has not changed.
 (rerunfilecheck)             Checksum: F8395905FE172F64D7122F1D6682365F;3758.
  ) 
 Here is how much of TeX's memory you used:
- 13353 strings out of 476025
- 217787 string characters out of 5790017
+ 13350 strings out of 476025
+ 217752 string characters out of 5790017
  1876388 words of memory out of 5000000
- 33431 multiletter control sequences out of 15000+600000
- 559056 words of font info for 121 fonts, out of 8000000 for 9000
+ 33429 multiletter control sequences out of 15000+600000
+ 556690 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,77p,1839b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,77p,1838b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Sage_LaTeX_Guidelines.pdf (20 pages, 593798 bytes).
+Output written on Sage_LaTeX_Guidelines.pdf (20 pages, 594012 bytes).
 PDF statistics:
  563 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams

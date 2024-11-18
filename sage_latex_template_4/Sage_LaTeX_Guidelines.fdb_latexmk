@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex Sage_LaTeX_Guidelines"] 1711741421 "Sage_LaTeX_Guidelines.aux" "Sage_LaTeX_Guidelines.bbl" "Sage_LaTeX_Guidelines" 1711742525 0
+["bibtex Sage_LaTeX_Guidelines"] 1711741421 "Sage_LaTeX_Guidelines.aux" "Sage_LaTeX_Guidelines.bbl" "Sage_LaTeX_Guidelines" 1731919149 0
   "./SageV.bst" 1376160766 27111 85b45bca39b0a2f223956e4ccc2e96ec ""
   "./bibliography.bib" 1711573930 26202 f4102b9f9a27923b3287a811d312cf3d ""
-  "Sage_LaTeX_Guidelines.aux" 1711742525 13105 b59200426af759d6af4a7291c585c615 "pdflatex"
+  "Sage_LaTeX_Guidelines.aux" 1731919149 13105 b59200426af759d6af4a7291c585c615 "pdflatex"
   (generated)
   "Sage_LaTeX_Guidelines.bbl"
   "Sage_LaTeX_Guidelines.blg"
   (rewritten before read)
-["pdflatex"] 1711742524 "/Users/mstudio/repository/research/cross-platform2/sage_latex_template_4/Sage_LaTeX_Guidelines.tex" "Sage_LaTeX_Guidelines.pdf" "Sage_LaTeX_Guidelines" 1711742525 0
-  "/Users/mstudio/repository/research/cross-platform2/sage_latex_template_4/Sage_LaTeX_Guidelines.tex" 1711742524 54527 4ad8a7cd9083ea327e455b4464e0b6c2 ""
+["pdflatex"] 1731919148 "/Users/mstudio/repository/research/cross-platform/sage_latex_template_4/Sage_LaTeX_Guidelines.tex" "Sage_LaTeX_Guidelines.pdf" "Sage_LaTeX_Guidelines" 1731919149 0
+  "/Users/mstudio/repository/research/cross-platform/sage_latex_template_4/Sage_LaTeX_Guidelines.tex" 1731919147 54614 22210e6bd84c0854c7f48d3b31cb5dc0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -162,10 +162,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1686758670 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686758668 7883455 439a16eca24fd25d569ecb1693e387a5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Sage_LaTeX_Guidelines.aux" 1711742525 13105 b59200426af759d6af4a7291c585c615 "pdflatex"
+  "Sage_LaTeX_Guidelines.aux" 1731919149 13105 b59200426af759d6af4a7291c585c615 "pdflatex"
   "Sage_LaTeX_Guidelines.bbl" 1711741421 15847 c158f64a1625f8f7c71d2f3a6e381ff8 "bibtex Sage_LaTeX_Guidelines"
-  "Sage_LaTeX_Guidelines.out" 1711742525 3758 f8395905fe172f64d7122f1d6682365f "pdflatex"
-  "Sage_LaTeX_Guidelines.tex" 1711742524 54527 4ad8a7cd9083ea327e455b4464e0b6c2 ""
+  "Sage_LaTeX_Guidelines.out" 1731919149 3758 f8395905fe172f64d7122f1d6682365f "pdflatex"
+  "Sage_LaTeX_Guidelines.tex" 1731919147 54614 22210e6bd84c0854c7f48d3b31cb5dc0 ""
   "figure/RQ3rr_shape.pdf" 1711572939 207656 fdc4c701d248991716bbd8cae7dba700 ""
   "figure/RQ4rr-parler-twitter-comparison-new.pdf" 1711573248 22567 b52b5c494a3226e1e6e53bc4502a6add ""
   "figure/toxicity_boxplot.pdf" 1711573094 10424 19aa688c43deb0f9bde97c2bfe3937db ""
