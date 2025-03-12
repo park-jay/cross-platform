@@ -1,5 +1,7 @@
 # You Change the Way You Talk: Examining the network, toxicity and discourse of cross-platform users on Twitter and Parler during the 2020 US Presidential Election
-This repository contains materials for the [paper](https://journals.sagepub.com/doi/abs/10.1177/01655515241238405)
+This repository contains materials for the paper "You Change the Way You Talk: Examining the network, toxicity and discourse of cross-platform users on Twitter and Parler during the 2020 US Presidential Election" 
+
+[Paper](https://journals.sagepub.com/doi/abs/10.1177/01655515241238405)
 
 ## Citation
 ```
